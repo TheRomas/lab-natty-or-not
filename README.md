@@ -20,22 +20,28 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+#  Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Olá pessoal, Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas,
+ explorando o potencial dessas tendências tecnológicas incríveis!
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+(https://studio.d-id.com/)
+(https://chatgpt.com/)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1- Primeiramente tirei uma selfie bem postada com resolução mais alta que consegui.
+   atraves do meu smartphone.
+
+2- Criei um script do que iria dizer e sobre qual assunto tratar para isso usei o auxilio do chatGPT
+
+3- Logo depois coloquei a imagem e o script nos campos do software da D-ID e fiz os ajustes de pausa da fala
+   para parecer mais natural e menos robotico.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[resultados do Projeto Extremamente Aesthetic](https://studio.d-id.com/share?id=164f2a1e9216b429572dfb27de676821&utm_source=copy)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
 ### Exemplos e Insigths
